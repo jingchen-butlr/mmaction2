@@ -1,0 +1,34 @@
+{
+  "classes": [
+    "sitting",
+    "standing",
+    "walking",
+    "lying down-lying with risk",
+    "lying down-lying on the bed/couch",
+    "leaning",
+    "transition-normal transition",
+    "transition-lying with risk transition",
+    "transition-lying on the bed transition",
+    "lower position-other",
+    "lower position-kneeling",
+    "lower position-bending",
+    "lower position-crouching",
+    "other"
+  ],
+  "class_to_id": {
+    "sitting": 0,
+    "standing": 1,
+    "walking": 2,
+    "lying down-lying with risk": 3,
+    "lying down-lying on the bed/couch": 4,
+    "leaning": 5,
+    "transition-normal transition": 6,
+    "transition-lying with risk transition": 7,
+    "transition-lying on the bed transition": 8,
+    "lower position-other": 9,
+    "lower position-kneeling": 10,
+    "lower position-bending": 11,
+    "lower position-crouching": 12,
+    "other": 13
+  }
+}

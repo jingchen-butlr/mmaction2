@@ -1,0 +1,25 @@
+{
+  "generation_time": "2025-11-12T20:23:49.174168",
+  "duration_seconds": 11.980367,
+  "configuration": {
+    "val_split": 0.2,
+    "random_seed": 42,
+    "buffer_frames": 128,
+    "compression": "gzip",
+    "compression_level": 4
+  },
+  "frames": {
+    "total_sensors": 25,
+    "total_frames": 17837,
+    "corrupted_frames": 0,
+    "storage_directory": "thermal_action_dataset/frames"
+  },
+  "annotations": {
+    "train_images": 2043,
+    "val_images": 494,
+    "train_annotations": 2232,
+    "val_annotations": 538,
+    "total_classes": 14,
+    "storage_directory": "thermal_action_dataset/annotations"
+  }
+}

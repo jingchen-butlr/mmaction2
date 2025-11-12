@@ -1,0 +1,227 @@
+{
+  "SL01_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL01_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 512,
+    "corrupted_frames": 0,
+    "annotation_count": 73,
+    "min_timestamp": 1761591347312,
+    "max_timestamp": 1761591431960
+  },
+  "SL02_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL02_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 515,
+    "corrupted_frames": 0,
+    "annotation_count": 73,
+    "min_timestamp": 1761591407595,
+    "max_timestamp": 1761591492397
+  },
+  "SL03_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL03_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 505,
+    "corrupted_frames": 0,
+    "annotation_count": 72,
+    "min_timestamp": 1761591467903,
+    "max_timestamp": 1761591551751
+  },
+  "SL06_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL06_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 3764,
+    "corrupted_frames": 0,
+    "annotation_count": 724,
+    "min_timestamp": 1761596987549,
+    "max_timestamp": 1761597611113
+  },
+  "SL06_R2": {
+    "hdf5_path": "thermal_action_dataset/frames/SL06_R2.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 2685,
+    "corrupted_frames": 0,
+    "annotation_count": 507,
+    "min_timestamp": 1761597587250,
+    "max_timestamp": 1761598032029
+  },
+  "SL07_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL07_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 503,
+    "corrupted_frames": 0,
+    "annotation_count": 72,
+    "min_timestamp": 1761598007977,
+    "max_timestamp": 1761598091209
+  },
+  "SL14_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 498,
+    "corrupted_frames": 0,
+    "annotation_count": 46,
+    "min_timestamp": 1760482247375,
+    "max_timestamp": 1760482331623
+  },
+  "SL14_R2": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R2.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 491,
+    "corrupted_frames": 0,
+    "annotation_count": 46,
+    "min_timestamp": 1760482307905,
+    "max_timestamp": 1760482392527
+  },
+  "SL14_R3": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R3.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 482,
+    "corrupted_frames": 0,
+    "annotation_count": 42,
+    "min_timestamp": 1760482367977,
+    "max_timestamp": 1760482452406
+  },
+  "SL14_R4": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R4.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 480,
+    "corrupted_frames": 0,
+    "annotation_count": 37,
+    "min_timestamp": 1760482428214,
+    "max_timestamp": 1760482511569
+  },
+  "SL14_R7": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R7.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 474,
+    "corrupted_frames": 0,
+    "annotation_count": 61,
+    "min_timestamp": 1760482547366,
+    "max_timestamp": 1760482631332
+  },
+  "SL14_R9": {
+    "hdf5_path": "thermal_action_dataset/frames/SL14_R9.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 470,
+    "corrupted_frames": 0,
+    "annotation_count": 59,
+    "min_timestamp": 1760482669002,
+    "max_timestamp": 1760482750877
+  },
+  "SL18_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL18_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 504,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760639207636,
+    "max_timestamp": 1760639291560
+  },
+  "SL18_R2": {
+    "hdf5_path": "thermal_action_dataset/frames/SL18_R2.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 507,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760639267685,
+    "max_timestamp": 1760639352233
+  },
+  "SL18_R3": {
+    "hdf5_path": "thermal_action_dataset/frames/SL18_R3.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 507,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760639327757,
+    "max_timestamp": 1760639412261
+  },
+  "SL18_R4": {
+    "hdf5_path": "thermal_action_dataset/frames/SL18_R4.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 507,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760639387228,
+    "max_timestamp": 1760639471662
+  },
+  "SL19_R1": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R1.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 450,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760483570587,
+    "max_timestamp": 1760483651578
+  },
+  "SL19_R2": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R2.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 711,
+    "corrupted_frames": 0,
+    "annotation_count": 104,
+    "min_timestamp": 1760483627780,
+    "max_timestamp": 1760483754931
+  },
+  "SL19_R3": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R3.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 470,
+    "corrupted_frames": 0,
+    "annotation_count": 68,
+    "min_timestamp": 1760483817579,
+    "max_timestamp": 1760483891866
+  },
+  "SL19_R4": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R4.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 508,
+    "corrupted_frames": 0,
+    "annotation_count": 59,
+    "min_timestamp": 1760483867393,
+    "max_timestamp": 1760483951763
+  },
+  "SL19_R5": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R5.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 500,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760483929535,
+    "max_timestamp": 1760484011055
+  },
+  "SL19_R6": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R6.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 480,
+    "corrupted_frames": 0,
+    "annotation_count": 54,
+    "min_timestamp": 1760483988668,
+    "max_timestamp": 1760484069998
+  },
+  "SL19_R7": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R7.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 444,
+    "corrupted_frames": 0,
+    "annotation_count": 51,
+    "min_timestamp": 1760484047666,
+    "max_timestamp": 1760484132195
+  },
+  "SL19_R8": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R8.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 420,
+    "corrupted_frames": 0,
+    "annotation_count": 42,
+    "min_timestamp": 1760484107750,
+    "max_timestamp": 1760484191234
+  },
+  "SL19_R9": {
+    "hdf5_path": "thermal_action_dataset/frames/SL19_R9.h5",
+    "mac_address": "02:00:1a:62:51:67",
+    "total_frames": 450,
+    "corrupted_frames": 0,
+    "annotation_count": 49,
+    "min_timestamp": 1760484168345,
+    "max_timestamp": 1760484250027
+  }
+}

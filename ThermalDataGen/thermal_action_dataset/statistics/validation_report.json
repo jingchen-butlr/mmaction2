@@ -1,0 +1,58 @@
+{
+  "temporal_coverage": {
+    "issues": [],
+    "total_checked": 2537
+  },
+  "annotation_validation": {
+    "issues": []
+  },
+  "frame_data_validation": {
+    "issues": [],
+    "samples_checked": 10
+  },
+  "statistics": {
+    "train": {
+      "total_images": 2043,
+      "total_annotations": 2232,
+      "avg_annotations_per_image": 1.092511013215859,
+      "class_distribution": {
+        "standing": 256,
+        "lower position-bending": 19,
+        "sitting": 466,
+        "transition-lying on the bed transition": 11,
+        "lying down-lying on the bed/couch": 745,
+        "walking": 42,
+        "transition-normal transition": 18,
+        "transition-lying with risk transition": 19,
+        "lying down-lying with risk": 625,
+        "lower position-kneeling": 19,
+        "lower position-crouching": 10,
+        "lower position-other": 2
+      }
+    },
+    "val": {
+      "total_images": 494,
+      "total_annotations": 538,
+      "avg_annotations_per_image": 1.0890688259109311,
+      "class_distribution": {
+        "transition-lying on the bed transition": 4,
+        "lying down-lying on the bed/couch": 182,
+        "sitting": 114,
+        "transition-normal transition": 7,
+        "lower position-bending": 1,
+        "walking": 6,
+        "standing": 56,
+        "lying down-lying with risk": 155,
+        "transition-lying with risk transition": 9,
+        "lower position-kneeling": 3,
+        "lower position-other": 1
+      }
+    },
+    "hdf5": {
+      "total_sensors": 25,
+      "total_frames": 17837,
+      "corrupted_frames": 0,
+      "total_size_mb": 39.95097351074219
+    }
+  }
+}
